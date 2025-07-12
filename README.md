@@ -1,6 +1,6 @@
-**** 🛒 Supermarket Sales Analysis Using Power BI****
+****** 🛒 Supermarket Sales Analysis Using Power BI******
 
-**This project is a **Power BI dashboard** that analyzes and visualizes key insights from a supermarket sales dataset. It was created as part of a group assignment (Group 9) and demonstrates the ability to perform data cleaning, transformation, and interactive dashboard development using Power BI.
+This project is a **Power BI dashboard** that analyzes and visualizes key insights from a supermarket sales dataset. It was created as part of a group assignment (Group 9) and demonstrates the ability to perform data cleaning, transformation, and interactive dashboard development using Power BI.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
